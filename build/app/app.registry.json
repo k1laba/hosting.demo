@@ -1,0 +1,95 @@
+{
+  "namespace": "App",
+  "fsNamespace": "app",
+  "loader": "../app.js",
+  "global": "app.global.js",
+  "core": "app.cdvoorqh.js",
+  "corePolyfilled": "app.d0zki60g.js",
+  "components": {
+    "app-board": {
+      "bundleIds": {
+        "$": "vqehoshs"
+      }
+    },
+    "app-bookings": {
+      "bundleIds": {
+        "$": "gz6uw402"
+      }
+    },
+    "app-change-password": {
+      "bundleIds": {
+        "$": "rsbrxghe"
+      }
+    },
+    "app-date-selector": {
+      "bundleIds": {
+        "$": "6wgyuw9r"
+      }
+    },
+    "app-expenses-editor": {
+      "bundleIds": {
+        "$": "vqehoshs"
+      }
+    },
+    "app-filter-modal": {
+      "bundleIds": {
+        "$": "vqehoshs"
+      }
+    },
+    "app-foh-stats": {
+      "bundleIds": {
+        "$": "vqehoshs"
+      }
+    },
+    "app-home": {
+      "bundleIds": {
+        "$": "vqehoshs"
+      }
+    },
+    "app-loader": {
+      "bundleIds": {
+        "$": "qocjfbji"
+      }
+    },
+    "app-login": {
+      "bundleIds": {
+        "$": "rsbrxghe"
+      }
+    },
+    "app-report": {
+      "bundleIds": {
+        "$": "vqehoshs"
+      }
+    },
+    "app-room-info": {
+      "bundleIds": {
+        "$": "vqehoshs"
+      }
+    },
+    "app-rooms-editor": {
+      "bundleIds": {
+        "$": "vqehoshs"
+      }
+    },
+    "app-root": {
+      "bundleIds": {
+        "$": "5oseasxt"
+      }
+    },
+    "app-schedule-view": {
+      "bundleIds": {
+        "$": "vqehoshs"
+      }
+    },
+    "app-tables-modal": {
+      "bundleIds": {
+        "$": "vqehoshs"
+      }
+    },
+    "app-toasty": {
+      "bundleIds": {
+        "$": "vqehoshs"
+      }
+    }
+  }
+}

@@ -1,0 +1,2 @@
+/*! Built with http://stenciljs.com */
+const{h:s}=window.App;import{c as t}from"./chunk-3b6e0310.js";class e{constructor(){this.bookings=[]}render(){return s("div",{class:"guest-info-wrapper"},this.bookings.map(e=>s("div",{class:"guest-info"},s("h4",null,`${e.guestName} ${e.guestLastName} (${e.roomName})`),s("p",null,`${t(e.checkInTime)}-${t(e.checkOutTime)}`))))}static get is(){return"app-bookings"}static get properties(){return{bookings:{type:"Any",attr:"bookings"}}}}export{e as AppBookings};

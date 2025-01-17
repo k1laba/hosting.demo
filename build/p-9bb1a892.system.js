@@ -1,0 +1,1 @@
+System.register(["./p-aa493731.system.js"],(function(){"use strict";var t;return{setters:[function(e){t=e.s}],execute:function(){t({API_BASE_URL:"https://foh.azurewebsites.net/api"})}}}));

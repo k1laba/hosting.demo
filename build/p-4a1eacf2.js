@@ -1,0 +1,1 @@
+import{s as e}from"./p-dacee15c.js";e({API_BASE_URL:"https://foh.azurewebsites.net/api"});

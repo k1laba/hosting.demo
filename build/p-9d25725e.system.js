@@ -1,0 +1,1 @@
+System.register(["./p-ae0654bc.system.js"],(function(){"use strict";var e;return{setters:[function(t){e=t.s}],execute:function(){e({API_BASE_URL:"https://hotelpro.azurewebsites.net/api"})}}}));

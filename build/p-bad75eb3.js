@@ -1,0 +1,1 @@
+import{s}from"./p-0b63bcd7.js";s({API_BASE_URL:"https://foh.azurewebsites.net/api"});

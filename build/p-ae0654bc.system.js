@@ -1,0 +1,1 @@
+System.register([],(function(n){"use strict";return{execute:function(){n("s",e);var t=n("e",(function(){return window["config"]}));function e(n){window["config"]=Object.assign({VERSION:"v0.3.0"},n)}}}}));

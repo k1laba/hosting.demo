@@ -1,0 +1,1 @@
+import{s}from"./p-f3712d3c.js";s({API_BASE_URL:"https://hotelpro.azurewebsites.net/api"});
